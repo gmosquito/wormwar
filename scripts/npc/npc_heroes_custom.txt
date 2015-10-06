@@ -1,0 +1,12 @@
+"DOTAHeroes"
+{
+	//=================================================================================================================
+	// HERO: Templar Assassin
+	//=================================================================================================================
+	"little_strong"
+	{
+		"override_hero"				"npc_dota_hero_templar_assassin"			// Hero to override
+		"Models"					"models/heroes/nerubian_assassin/nerubian_assassinvmdl"//英雄模型
+		"StatusHealth"				"1"		// 生命值
+
+}

@@ -1,0 +1,4 @@
+"CustomHeroList"
+{
+	"npc_dota_hero_templar_assassin"			"-1"//英雄列表小强可选
+}

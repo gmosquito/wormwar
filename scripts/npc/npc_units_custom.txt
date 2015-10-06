@@ -1,0 +1,27 @@
+// Units File
+"DOTAUnits"
+{
+	"Version"	"1"
+	
+	//=================================================================================	
+	// Creature: Gnoll Assassin
+	//=================================================================================
+	"yang"
+	{
+		"Model"						"models/heroes/bane/bane.vmdl"
+		"ModelScale"						"0.3"
+		"StatusHealth"				"1"		// 生命值
+	}
+	"niu"
+	{
+		"Model" 					"models/heroes/earthshaker/earthshaker.vmdl"
+		"ModelScale"						"0.4"
+		"StatusHealth"				"1"		// 生命值
+	}
+	"huoren"
+	{
+		"Model"						"models/heroes/invoker/forge_spirit.vmdl"
+		"ModelScale"						"1.1"
+		"StatusHealth"				"1"		// 生命值
+	}
+}
